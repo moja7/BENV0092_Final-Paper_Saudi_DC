@@ -168,37 +168,6 @@ An interactive web-based site explorer is included at `web/saudi_dc_explorer.htm
 
 ---
 
-## Citation
-
-If you use this framework or data in your work, please cite:
-
-```
-[Author], "Optimal Siting of Hyperscale Data Centre Buildings in Saudi Arabia:
-A GIS-Based Multi-Criteria Decision Analysis Framework," MSc Thesis,
-UCL Bartlett School of Environment, Energy and Resources, London, 2025.
-```
-
----
-
-## References
-
-- Al-Haddad et al. (1994). A basis for evaluation of seismic hazard and design criteria for Saudi Arabia. *Earthquake Spectra*, 10(2), 231–258. doi:10.1193/1.1585773
-- ASHRAE (2021). *Thermal Guidelines for Data Processing Environments*, 5th ed.
-- Goldstein, E.A., Raman, A.P., and Fan, S. (2017). Sub-ambient non-evaporative fluid cooling with the sky. *Nature Energy*, 2(9), 17143.
-- IEA (2025). *Electricity 2025: Analysis and Forecast to 2030*. International Energy Agency, Paris.
-- Malczewski, J. (2006). GIS-based multicriteria decision analysis: a survey of the literature. *International Journal of Geographical Information Science*, 20(7), 703–726.
-- OpenEnergyMonitor (2024). Percentage of ideal Carnot COP. https://docs.openenergymonitor.org
-- Saaty, T.L. (1980). *The Analytic Hierarchy Process*. McGraw-Hill, New York.
-
----
-
-## Contact
-
-For data access requests or questions about the methodology, please contact the author via UCL email or open a GitHub issue.
-
----
-
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 Raw spatial data sourced from OpenStreetMap is available under the Open Database Licence (ODbL). NASA POWER data is in the public domain. GADM data is licensed for academic use only.
